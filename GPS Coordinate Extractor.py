@@ -1,5 +1,6 @@
 #! python3
-# This is a testing document
+# This program extracts locations from excel
+# and outputs GPS coordinates from latlong.net
 
 import openpyxl, pyperclip, requests, os, bs4
 
@@ -30,9 +31,3 @@ for r in range(2, sheet.max_row + 1):
 
     #Browser Back
     driver.back()
-    
-elif location = ""
-    prin("Value is null")
-
-
-
