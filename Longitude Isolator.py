@@ -1,4 +1,5 @@
 #! python3
+#This program extracts the longitude from a (x,y) format
 
 import pyperclip, openpyxl
 
