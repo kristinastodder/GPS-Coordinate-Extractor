@@ -1,2 +1,2 @@
 # GPS-Coordinate-Extractor
-This program enters locations from a spreadsheet and produces the GPS coordinates through latlong.net
+This program pulls locations data from an excel spreadsheet and produces GPS coordinates as a new column drawing data from latlong.net
